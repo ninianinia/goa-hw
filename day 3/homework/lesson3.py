@@ -1,0 +1,5 @@
+print("nino laghidze")
+print("sanro antadze")
+print("nino antadze")
+print("anastasia antadze")
+print("luka antadze")

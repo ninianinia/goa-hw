@@ -1,0 +1,5 @@
+p  r i n t("nino laghidze")
+p ri n t ("sanro antad ze")
+p r i n  t("nin o an adze")
+p r i nt ("anastas ia  antadz e")
+p r i n  t ("lu ka a nta d ze)
