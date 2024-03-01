@@ -1,22 +1,8 @@
-# სტრინგის ტესტი
+name = "nino"
+print(type(name))
 
-my_string = "hello"
+lastname = "antadze"
+print(type(lastname))
 
-
-if isinstance(my_string, str):
-
-   print("my_string არის სტრინგი.")
-
-# ფლოატის ტესტი
-my_float = 5.5
-
-if isinstance(my_float, float)
-   
-   print("my float არის ფლოატი.")
-
-# ინტის ტესტი
-my_int = 10
-
-if isinstance(my_int, int):
-   
-   print("my_int არის მთელი რიცხვი.")
+age = 14
+print(type(age))
